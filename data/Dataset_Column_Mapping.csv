@@ -1,0 +1,52 @@
+Column Name,Business Meaning
+movie_id,Unique identifier for each movie.
+title,Movie title.
+Budget,Production investment amount.
+Revenue,Total earnings generated.
+Popularity,Audience popularity score.
+Genres,Movie genres.
+Primary_Genre,Main movie genre.
+Genre_Count,Number of genres assigned.
+Director,Movie director.
+Production_Companies,Companies involved in production.
+Primary_Production_Company,Primary production company.
+Production_Company_Count,Number of production companies.
+Release_Date,Movie release date.
+Cast_Count,Number of cast members.
+Lead_Actor,Lead actor.
+Second_Lead_Actor,Second lead actor.
+Third_Lead_Actor,Third lead actor.
+Male_Cast_Count,Number of male cast members.
+Female_Cast_Count,Number of female cast members.
+Unknown_Cast_Gender_Count,Not Defined
+Cast_Gender_Ratio,Ratio of male to female cast.
+Crew_Count,Number of crew members.
+Producer_Count,Number of producers.
+Writer_Count,Number of writers.
+Male_Crew_Count,Number of male crew members.
+Female_Crew_Count,Number of female crew members.
+Unknown_Crew_Gender_Count,Not Defined
+Unique_Department_Count,Not Defined
+Top_Crew_Department,Not Defined
+Cast_Crew_Ratio,Not Defined
+Total_People_Involved,Total cast and crew members.
+Profit,Net earnings after deducting budget.
+ROI,Return on investment.
+Revenue_Budget_Ratio,Revenue generated per unit of budget.
+Budget_Category,Budget classification.
+Financial_Result,Profit or loss category.
+Budget_Efficiency,Budget efficiency category.
+Popularity_Category,Popularity classification.
+Profitability_Category,Profitability classification.
+Popularity_Profitability_Segment,Combined popularity and profitability category.
+Release_Year,Release year.
+Release_Month,Release month.
+Release_Month_Name,Not Defined
+Release_Quarter,Release quarter.
+Release_Season,Release season.
+Has_Budget_Data,Budget data availability.
+Has_Revenue_Data,Revenue data availability.
+Has_Financial_Data,Financial data availability.
+Has_Genre_Data,Genre data availability.
+Has_Company_Data,Production company data availability.
+Has_Release_Data,Release date availability.
