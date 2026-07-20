@@ -1,0 +1,13 @@
+Column,Issue_Type,Issue_Found,Affected_Rows,Recommended_Action
+Release_Date,Data Type / Format,Malformed date values,0,Review and standardize date format
+Release_Year,Range Check,Invalid release year,0,Validate against Release_Date
+Revenue,Invalid Value,Negative revenue,0,Investigate negative values
+Revenue,Data Availability,Zero revenue,728,Determine whether zero means missing or genuine zero
+Genre_Count,Invalid Value,Negative genre count,0,Investigate invalid values
+Genre_Count,Data Availability,Zero genre count,10,Compare with Genres column
+Production_Company_Count,Invalid Value,Negative production company count,0,Investigate invalid values
+Production_Company_Count,Data Availability,Zero production company count,123,Compare with Production_Companies
+Production_Companies,Category Consistency,Leading/trailing whitespace,0,Standardize formatting during cleaning
+Primary_Production_Company,Category Consistency,Leading/trailing whitespace,0,Standardize formatting during cleaning
+Cast_Gender_Ratio,Missing Values,Missing gender ratio,307,Investigate using male and female cast counts
+Cast_Gender_Ratio,Invalid Value,Negative gender ratio,0,Investigate invalid values
