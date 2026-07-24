@@ -1,0 +1,40 @@
+﻿Summary_Insights,,,,,,,
+,,,,,,,
+Analysis Area,Key Metric,Result,Observation,,,,
+Primary Production Company,Highest Total Revenue,Paramount Pictures – 28.49B,Highest total revenue among the displayed primary production companies,,,,
+Primary Production Company,Highest Avg. Genre Count,DreamWorks Animation – 4.39,Movies associated with DreamWorks span more genres on average among the displayed companies,,,,
+Production Companies,Max Genre Count,7,The highest observed genre count in the displayed production-company groups is 7,,,,
+Cast Gender Ratio,Highest Avg. Revenue,Ratio 2.46 – 1.52B,Highest average revenue among the displayed ratio values,,,,
+Cast Gender Ratio,Overall Averages,Revenue 954.32M; Genre Count 2.9; Company Count 2.8,Provides a baseline for comparing the displayed ratio groups,,,,
+,,,,,,,
+,,,,,,,
+Row Labels,Sum of Revenue,Average of Genre_Count,Count of Production_Company_Count,,,,
+20th Century Fox,10141761598,2.727272727,66,,,,
+Columbia Pictures,18559597683,2.648854962,131,,,,
+DreamWorks Animation,11049545056,4.391304348,23,,,,
+Marvel Studios,10240256048,3,13,,,,
+New Line Cinema,14548332130,2.428571429,112,,,,
+Paramount Pictures,28494715823,2.677595628,183,,,,
+Pixar,9854924837,3.75,16,,,,
+Universal Pictures,22986361740,2.569620253,158,,,,
+Walt Disney Pictures,16679865163,3.135135135,74,,,,
+Warner Bros. Pictures,20631904152,2.617021277,94,,,,
+Grand Total,1.63187E+11,2.727586207,870,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Row Labels,Max of Genre_Count,Average of Production_Company_Count,,Row Labels,Average of Revenue,Average of Genre_Count,Average of Production_Company_Count
+"Appian Way, Random Films, Warner Bros. Pictures",6,3,,1.41,933959197,2,2
+"Conundrum Entertainment, Warner Bros. Pictures",6,2,,2.06,788976453,3,3
+"Hyde Park Entertainment, platinum studios, Long Distance Films",7,3,,2.21,821708551,2,3
+"Intermedia Films, IMF Internationale Medien und Film 3 & Produktions, Gordian Productions, The Great Filmproductie, Cecchi Gori Group, Renn Productions, Pathé, Warner Bros. Pictures",6,8,,2.46,1518815515,3,1
+"Mankurt Media, Producers Distribution Agency",6,2,,4.23,880707597,3,3
+"Mirage Studios, Orange Sky Golden Harvest",6,2,,4.73,716934779,3,4
+"Miramax, Renaissance Films, Mad Chance, Section Eight, JVS",6,5,,6.57,1004558444,3,4
+"New Line Cinema, Pull Down Your Pants Pictures, Todd McFarlane Entertainment, Juno Pix",6,4,,6.64,1081041287,4,4
+"Paramount Pictures, Nickelodeon Movies, Snee-Oosh Inc., Nickelodeon Animation Studio",6,4,,15.33,775398007,3,1
+"Russian Film Group, Marinsgroup",6,2,,25,1021103568,3,3
+"Walt Disney Pictures, Gunn Films",6,2,,Grand Total,954320339.8,2.9,2.8
+"Williams Street, Radical Axis",6,2,,,,,
+"Younggu-Art Movies, Showbox",6,2,,,,,
+Grand Total,7,3.153846154,,,,,
